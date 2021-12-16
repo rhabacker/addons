@@ -120,7 +120,7 @@ Add the following configuration to enable **unrestricted** access to all topics.
     topic readwrite #
     ```
 
-The `/share` folder can be accessed via SMB, or on the host filesystem under `/usr/share/hassio/share`.
+The folder "/share" can be accessed via SMB, on the host file system under "/share" (Raspberry Pi) or on other hosts under "/usr/share/hassio/share".
 
 ## Support
 
